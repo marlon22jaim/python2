@@ -10,6 +10,7 @@ set_types = {1, "hola", False, 12.12}
 print(set_types)
 
 set_from_string = set("hooola")
+#{'a', 'h', 'o', 'l'}
 print(set_from_string)
 
 set_from_tuples = set(("abc", "cbv", "as", "abc"))

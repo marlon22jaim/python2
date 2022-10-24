@@ -1,6 +1,3 @@
-from unittest import result
-
-
 def increment(x):
     return x + 1
 

@@ -1,6 +1,4 @@
 import csv
-from email import header
-
 
 def read_csv(path):
     with open(path, "r") as csvfile:

@@ -1,6 +1,3 @@
-from unittest import result
-
-
 def get_population():
     keys = ["col", "bol"]
     values = ["300", "400"]
